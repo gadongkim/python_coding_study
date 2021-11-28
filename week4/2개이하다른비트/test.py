@@ -1,0 +1,6 @@
+print(bin(2)[2:])
+print(bin(3)[2:])
+print(bin(4)[2:])
+print(bin(5)[2:])
+print(bin(6)[2:])
+print(bin(7)[2:])
